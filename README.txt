@@ -1,3 +1,8 @@
+To use, just copy all the files in this directory within your qgis python plugin directory, restart qgis, and select RasterRowColumn in the plugin manager to start using.
+
+
+
+
 Plugin Builder Results
 
 Your plugin RasterRowColumn was created in:
